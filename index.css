@@ -13,7 +13,7 @@ header {
 header > img {
     border-radius: 100%;
     border: 1px solid whitesmoke;
-    position: relative;
+    position: fixed;
     left: 3px;
 }
 
